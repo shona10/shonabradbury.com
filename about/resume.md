@@ -5,7 +5,7 @@ Agile project management professional with scrum, kanban, business analysis, and
 
 ## Professional Experience
 2019 – 2020 **Implementation Business Analyst**, Project Management, BriteCore, Springfield, MO (remote)
-- Liason to BriteCore clients to document business processes and software requirements.  
+- Liaison to BriteCore clients to document business processes and software requirements.  
 - Release manager of software changes through design, product, QA, and UAT processes.
 - Performed extensive gap analysis between client business needs and software capabilities.
 
