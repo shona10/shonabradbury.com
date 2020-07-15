@@ -60,7 +60,7 @@ Agile project management professional with scrum, kanban, business analysis, and
  - Videographer, Pet adoption and special project videos for the Connecticut Humane Society, Newington, CT Branch, 2014-2018
  - Girl Scouts of Connecticut, Troop Leader, Service Unit Product Manager, Service Unit Recognitions Manager, Service Unit Secretary 2015-2018
  - Preschool Instructor, Little Makers & Tinker Tuesdays, Canton Public Library, 2016-2018
- - Coach, FIRST LEGO League Junior robotics team, 2017-Present
+ - Coach, FIRST LEGO League Junior robotics team, 2017-2019
 
 ## Accomplishments
  - Professional Scrum Master I Certification (2019)
