@@ -4,7 +4,12 @@
 Agile project management professional with scrum, kanban, business analysis, and technical writing experience. Varied background in business operations, information technology, television and radio broadcasting, and electrical engineering. Veteran of the U.S. Air Force. Science fiction author.
 
 ## Professional Experience
-2018 – Present **Documentation & Process Manager**, Business Operations, Metrum Research Group, Tariffville, CT.  
+2019 – 2020 **Implementation Business Analyst**, Project Management, BriteCore, Springfield, MO (remote)
+- Liason to BriteCore clients to document business processes and software requirements.  
+- Release manager of software changes through design, product, QA, and UAT processes.
+- Performed extensive gap analysis between client business needs and software capabilities.
+
+2018 – 2019 **Documentation & Process Manager**, Business Operations, Metrum Research Group, Tariffville, CT.  
  - Content developer and curator for internal Knowledgebase of scientific work instructions, employee resources, and IT help documentation.  
  - Media project management including systems support and content development of website, blog, newsletters, and social media.  
  - Project manager for internal software development.  
